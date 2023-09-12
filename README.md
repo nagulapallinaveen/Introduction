@@ -9,3 +9,4 @@
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-nagulapallinaveen-blue?style=flat-square&logo=github)](https://github.com/nagulapallinaveen)
+#### [Linkedin](https://www.linkedin.com/in/nagulapallinaveen/)
